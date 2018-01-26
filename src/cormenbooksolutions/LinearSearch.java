@@ -1,4 +1,4 @@
-package cormenbooksolutions.chapter2;
+package cormenbooksolutions;
 
 import java.io.BufferedReader;
 import java.io.IOException;

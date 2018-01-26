@@ -1,4 +1,4 @@
-package cormenbooksolutions.chapter2;
+package cormenbooksolutions;
 
 /**
  * Created by shwetimahajan on 11/29/17.
